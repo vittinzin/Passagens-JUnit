@@ -21,9 +21,9 @@ Garantir que a ocupação do trem aumentou.
 
 Validar o preço final do bilhete considerando regras de desconto.
 
-### **Casos de Teste de Integração:**
+## **Casos de Teste de Integração:**
 
-**Fluxo Feliz (Happy Path)**
+### **Fluxo Feliz (Happy Path)**
 
 Passageiro válido compra bilhete.
 
