@@ -1,9 +1,9 @@
-**Sistema de Viagem de Trem** 
+## **Sistema de Viagem de Trem** 
 
 O sistema feito em Java realiza a compra de passagens de trem, contando com as classes de passageiro, estação, trem, bilhete e viagem, cada uma com seus atributos e métodos.
 O Objetivo dos testes unitários e de integração são a realização de uma compra de uma passagem de trem do início ao fim
 
-**Fluxo de Testes Unitários:**
+# **Fluxo de Testes Unitários:**
 
 Criar duas estações (origem e destino).
 
@@ -21,7 +21,7 @@ Garantir que a ocupação do trem aumentou.
 
 Validar o preço final do bilhete considerando regras de desconto.
 
-**Casos de Teste de Integração:**
+# **Casos de Teste de Integração:**
 
 **Fluxo Feliz (Happy Path)**
 
@@ -31,7 +31,7 @@ Embarca corretamente.
 
 Preço calculado corretamente.
 
-**Casos de Borda (Edge Cases)**
+# **Casos de Borda (Edge Cases)**
 
 Trem lotado no momento da compra do bilhete (lança exceção).
 
